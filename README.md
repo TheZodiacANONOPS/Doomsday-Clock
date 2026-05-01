@@ -1,0 +1,2 @@
+# Doomsday Clock
+This Doomsday clock is designed to combine a multitude of RNG based commands to make an executable command that has a longer wait time than the length of the universe.
